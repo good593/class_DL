@@ -1,0 +1,18 @@
+# models
+*.pth 
+*.pt 
+
+# cache
+__pycache__
+
+
+# 가상환경 
+.venv 
+.vscode
+.env
+
+# mac
+Icon
+.DS_Store
+**/**/.DS_Store
+
